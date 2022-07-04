@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CarShineServices.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CarShineServices_wsMainService_MainService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://carshines.com/Services/MainService.asmx</Value>
+    </Setting>
+    <Setting Name="Token" Type="System.String" Scope="User">
+      <Value Profile="(Default)">carshine@Malik#12(12)</Value>
+    </Setting>
+    <Setting Name="ServiceIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.8.113</Value>
+    </Setting>
+    <Setting Name="StartSMSOnLoad" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="StartEmailOnLoad" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

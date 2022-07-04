@@ -1,0 +1,11 @@
+D:\Repos\CarShineWeb\CarShineServices\bin\Debug\CarShineServices.exe.config
+D:\Repos\CarShineWeb\CarShineServices\bin\Debug\CarShineServices.exe
+D:\Repos\CarShineWeb\CarShineServices\bin\Debug\CarShineServices.pdb
+D:\Repos\CarShineWeb\CarShineServices\obj\Debug\CarShineServices.Home.resources
+D:\Repos\CarShineWeb\CarShineServices\obj\Debug\CarShineServices.Properties.Resources.resources
+D:\Repos\CarShineWeb\CarShineServices\obj\Debug\CarShineServices.csproj.GenerateResource.cache
+D:\Repos\CarShineWeb\CarShineServices\obj\Debug\CarShineServices.csproj.CoreCompileInputs.cache
+D:\Repos\CarShineWeb\CarShineServices\obj\Debug\CarShineServices.exe
+D:\Repos\CarShineWeb\CarShineServices\obj\Debug\CarShineServices.pdb
+D:\Repos\CarShineWeb\CarShineServices\bin\Debug\Logs\TextFile1.txt
+D:\Repos\CarShineWeb\CarShineServices\obj\Debug\CarShineServices.csprojAssemblyReference.cache

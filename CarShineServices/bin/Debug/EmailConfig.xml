@@ -1,0 +1,5 @@
+<EmailSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Email="info@carshines.com" 
+UserName="info@carshines.com" TimeInterval="90000" Name="Car Shines">
+	<Server Server="webmail.carshines.com" Port="25" isSSL="true"/>
+	<Password Password="ipVPtxtyx1tDmk8Subf8S4Fz27wLw5IspKaLF6kiNVI=" isDecypted="false"/>
+</EmailSettings>
